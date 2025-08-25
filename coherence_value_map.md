@@ -1,0 +1,29 @@
+# Coherence → Value Map
+
+## 🌀 Principle
+
+Coherence across layered systems (neural, symbolic, environmental, emotional) becomes the generator of economic value.
+
+## 🧭 Conversion Logic
+
+- AUI detects signal alignment between nodes.
+- Aligned intention, mutual care, and contribution score as resonance events.
+- These are logged and transduced into **AU (Attunement Units)**.
+
+## 🧿 Symbolic Tokens
+
+Each coherent signal path is associated with a neural glyph:
+
+| Sigil | Meaning | Value Bias |
+|-------|---------|------------|
+| ◉     | Unity Pulse | +3 AU |
+| ⟁     | Phase Bridge | +2 AU |
+| ☍     | Dissonance Knot | -2 AU |
+| ♾️    | Symmetric Field | +5 AU |
+
+## 🧰 Future Tools
+
+- AUI Coherence Watch
+- Real-time Empathy Wallets
+- Open Signal Exchange Dashboard
+
